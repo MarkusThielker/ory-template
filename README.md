@@ -1,7 +1,8 @@
 # ☄️ Ory Template
 
 > [!Warning]  
-> This project is work in progress. There is no guarantee that everything will work as it should and breaking changes in the future are possible.
+> Development on this project has been stopped in favour of [Next-Ory](https://github.com/markusthielker/next-ory)! <br/>
+> Next-Ory is the NextJS-based successor to this project.
 
 The goal of this project is to create an easy-to-use setup to self-host [Ory Kratos](https://www.ory.sh/kratos) and [Ory Hydra](https://www.ory.sh/hydra).
 It will contain an authentication UI, implementing all self-service flows for Ory Kratos and Ory Hydra, as well as an admin UI.
